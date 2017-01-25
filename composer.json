@@ -54,6 +54,13 @@
             "hiqdev\\hiart\\httpclient\\": "src"
         }
     },
+    "extra": {
+        "config-plugin": {
+            "params": "src/config/params.php",
+            "hisite": "src/config/common.php",
+            "hidev": "src/config/common.php"
+        }
+    },
     "repositories": [
         {
             "type": "composer",
