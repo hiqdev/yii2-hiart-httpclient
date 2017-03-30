@@ -26,4 +26,9 @@ class Request extends \hiqdev\hiart\proxy\Request
             ],
         ]);
     }
+
+    public static function isSupported()
+    {
+        return true;
+    }
 }
