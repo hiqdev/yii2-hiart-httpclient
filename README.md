@@ -1,5 +1,4 @@
-Yii2 HiArt yii2-httpclient
-==========================
+# Yii2 HiArt yii2-httpclient
 
 **yii2-httpclient transport for yii2-hiart**
 
@@ -10,8 +9,11 @@ Yii2 HiArt yii2-httpclient
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-hiart-httpclient.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-hiart-httpclient/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-hiart-httpclient/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-hiart-httpclient/dev-master)
 
-This package provides [yii2-httpclient](https://github.com/yiisoft/yii2-httpclient)
-transport implementation for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).
+This package provides [yii2-httpclient]
+transport implementation for [yii2-hiart].
+
+[yii2-httpclient]: https://github.com/yiisoft/yii2-httpclient
+[yii2-hiart]: https://github.com/hiqdev/yii2-hiart
 
 ## Installation
 

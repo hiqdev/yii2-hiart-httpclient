@@ -4,7 +4,9 @@ package:
     title:          yii2-httpclient transport for yii2-hiart
     headline:       Yii2 HiArt yii2-httpclient
     keywords:       yii2, hiart, httpclient
-    namespace:      hiqdev\hiart\httpclient
     description:    |
-        This package provides [yii2-httpclient](https://github.com/yiisoft/yii2-httpclient)
-        transport implementation for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).
+        This package provides [yii2-httpclient]
+        transport implementation for [yii2-hiart].
+
+        [yii2-httpclient]: https://github.com/yiisoft/yii2-httpclient
+        [yii2-hiart]: https://github.com/hiqdev/yii2-hiart
